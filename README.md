@@ -7,7 +7,7 @@ README.md
 - 📈 Passionate about turning data into insights
 - 🏆 Projects in sales analysis, market analysis, wireframing
 
-📫 **Connect with me:** [LinkedIn] https://www.linkedin.com/in/dharani-r-b5a363119/
+📫 **Connect with me:** [LinkedIn] https://www.linkedin.com/in/dharani-r-analytics/
 
 #project1
 📂 restaurant-management-system
