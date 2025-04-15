@@ -9,7 +9,18 @@ README.md
 
 📫 **Connect with me:** [LinkedIn] https://www.linkedin.com/in/dharani-r-analytics/
 
-#project1
+PROJECTS
+
+https://github.com/DHARANIR1006/RetailSales_Project.git
+
+
+
+
+
+
+
+
+#project
 📂 restaurant-management-system
  ├── 📜 README.md            # Project documentation
  ├── 📂 data                 # Sales data (CSV, Excel)
@@ -19,6 +30,7 @@ README.md
  ├── 📂 wireframes           # Figma designs
  ├── 📂 reports              # Business reports
  ├── 📂 docs                 # Additional documentation
+
 
  # 🍽️ Restaurant Management System
 
@@ -47,7 +59,6 @@ This project is an **online management system** designed for a chain of restaura
 | **Tableau** | Dashboards & Reports |
 | **Figma** | UI/UX Mockups & Wireframes |
 | **SQL** | Data Extraction & Queries |
-| **Python (Pandas, Matplotlib)** | Data Processing & Visualization |
 
 
 #Project2-Power Bi
