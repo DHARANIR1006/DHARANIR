@@ -12,7 +12,9 @@ README.md
 PROJECTS
 
 > https://github.com/DHARANIR1006/RetailSales_Project.git
-> >
+
+
+> https://github.com/DHARANIR1006/MondayCoffee_SQL_Project.git
 
 
 
